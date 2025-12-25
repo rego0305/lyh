@@ -24,5 +24,10 @@ test  这是第四次commit
 test1.2
 这是第五次commit
 
+<<<<<<< HEAD
 test2.2 on github desktop
 这是第六次commit 修改
+
+test2.1 on github
+这是第六次commit 修改
+>>>>>>> c24fcdf915fb2b8ff32748250e00f3861d103f94
