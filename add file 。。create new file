@@ -42,5 +42,9 @@ test3.1 on github
 这是第七次commit 修改
 
 
+<<<<<<< HEAD
 test4.2 on github desktop
+删除了 = 号
+test4.1 on github
+>>>>>>> bd1c48d31b104a983615c7809581c15a5fe8e5b9
 这是第八次commit 修改
